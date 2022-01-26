@@ -1,0 +1,29 @@
+body {
+
+  background-color: #F3F0D7;
+
+  font-family: 'Montserrat-bold' , sans-serif;
+}
+h1{
+  padding-top: 35px;
+}
+p {
+text-align: left;
+
+}
+
+.r_image {
+  border-radius: 50%;
+  text-align: center;
+}
+.l_image{
+  border-radius: 50%;
+
+  display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.padding{
+  padding-top: 35px;
+}
