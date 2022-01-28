@@ -53,7 +53,7 @@ a:hover, a:focus {
 
 .form-control {
   background: #212529;
-  border-color: #545454;
+  border-color: #212529;
 }
 
 .form-control:focus {
