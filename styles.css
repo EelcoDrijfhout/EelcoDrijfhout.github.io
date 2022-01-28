@@ -63,3 +63,6 @@ a:hover, a:focus {
 footer {
   background: #212529;
 }
+.footerpadding{
+  padding-top: 40px;
+}
