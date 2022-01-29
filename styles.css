@@ -61,23 +61,35 @@ footer {
   background: #212529;
 }
 .footerpadding{
-   padding-top: 40px; 
+   padding-top: 40px;
 
 
 }
+
+
+/* .navbar-nav  .nav-link,
+.navbar-nav  .nav-link */
+.nav-item.active
+ {
+   background-color: rgba(121,121,121,0.5);
+
+}
+
+.nav-item:hover{
+   background-color: rgba(157,157,157,0.5);
+}
+
 img{
   padding-bottom: 10px;
 
-/* margin-left: auto;
-margin-right: auto;
-text-align: center;
-align-content: center; */
-}
-/* .white{
-color:
-  background-color: white;
 
-} */
+}
+
 .padding{
   padding-top: 40px;
+}
+.btn{
+
+margin: auto;
+width: 50%;
 }
